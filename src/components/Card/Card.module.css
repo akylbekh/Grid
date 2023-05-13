@@ -1,0 +1,19 @@
+.card{
+    width: 360px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
+h1,
+h2{
+    font-family: sans-serif;
+}
+.change__name{
+    width: 260px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+.change__name::before{
+    border: 1px solid rgb(0, 0, 0);
+}
